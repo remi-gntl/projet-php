@@ -1,13 +1,18 @@
-Projet PHP Vente de Diplômes 🎓
-Ce projet est une application web fictive permettant aux utilisateurs de sélectionner et d’acheter des diplômes. Ce projet est conçu dans le cadre de la ressource R3.01 Développement Web, Développement Back End.
+🎓 Vente de Diplômes
+Une application web fictive permettant aux utilisateurs de parcourir et acheter des diplômes, développée pour la ressource R3.01 (Développement Web, Développement Back End).
 
-Fonctionnalités
-Page d'accueil : Présentation de l'application avec navigation vers le catalogue et le panier.
-                 Liste des diplômes disponibles avec option d'ajout au panier.
-                 Détail illustré sur chaque diplôme lors de sa séléction.
-Panier : Consultation et gestion des articles ajoutés (consultation, suppression) avec élément dynamique du nombre d'articles dans le panier (AJAX).
-Validation de paiement : Simulation de paiement avec vérifications de cartes et date d'expiration.
-Authentification : Accès administrateur pour gérer le catalogue (ajout, modification, suppression).
-Gestion des utilisateurs: Accès restreint en fonction du type d'utilisateur (admin ou non), et gestion des sessions de connexion.
+📜 Fonctionnalités
+🌐 Page d'accueil
+Présentation : Introduction à l'application avec navigation intuitive vers le catalogue et le panier.
+Catalogue : Liste des diplômes disponibles, chacun avec une option pour l'ajouter au panier.
+Détail des diplômes : Vue détaillée de chaque diplôme avec description et image.
+🛒 Panier
+Gestion des articles : Consultez, ajoutez ou supprimez des diplômes dans le panier.
+Quantité dynamique : Mise à jour en temps réel du nombre d'articles dans le panier (AJAX).
+💳 Validation de paiement
+Simulation de paiement : Processus de vérification de carte avec contrôle de la date d'expiration.
+🔐 Authentification
+Accès administrateur : Accès réservé pour la gestion du catalogue (ajout, modification, suppression).
+Gestion des utilisateurs : Accès restreint selon le type d'utilisateur (admin ou non) et gestion des sessions de connexion.
 
-Accessible sur cette version depuis les serveurs de l'IUT de Bayonne et du Pays Basque (Lakartxela).
+Accessible depuis cette version sur les serveurs de l'IUT de Bayonne et du Pays Basque (Lakartxela).
